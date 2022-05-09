@@ -18,7 +18,9 @@
   },
   "scripts": {
     "dev": "ts-node-dev src/server.ts",
-    "test": "jest"
+    "test": "jest",
+    "start": "node dist/server.js",
+    "build": "tsc"
   },
   "dependencies": {
     "@prisma/client": "^3.13.0",
