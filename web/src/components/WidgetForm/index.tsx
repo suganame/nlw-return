@@ -64,12 +64,12 @@ export function WidgetForm() {
       )}
 
       <footer className="text-xs text-neutral-400">
-        Feito com ♥ por
+        Feito com ♥ pela
         <a
           className="underline underline-offset-2"
-          href="https://github.com/suganame"
+          href="https://rocketseat.com.br"
         >
-           Guilherme Suganame
+          Rocketseat
         </a>
       </footer>
     </div>
