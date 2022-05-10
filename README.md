@@ -21,8 +21,8 @@ O backend da aplicação foi construída NodeJS combinado com diversas ferrament
 
 ## Frontend
 
-O frontend foi utilizado [React](https://reactjs.org) e como construtor utilizamos o [Vite](https://vitejs.dev) que lidou com toda a parte burocrática de criação de projetos em Reactjs. Que em questões de minutos, já tínhamos o esqueleto do projeto pronto a ser trabalhado.
-Também utilizamos [TailwindCSS](https://tailwindcss.com) que é um framework CSS que facilitou e estilizou o site deixando-o elegante e performático
+O frontend foi utilizado [React](https://reactjs.org) e como construtor utilizamos o [Vite](https://vitejs.dev) que lidou com toda a parte burocrática de criação de projetos em Reactjs. Que em questões de minutos, já tínhamos o esqueleto do projeto pronto a ser trabalhado. <br>
+Também utilizamos [TailwindCSS](https://tailwindcss.com) que é um framework CSS que facilitou e estilizou o site deixando-o elegante e performático <br>
 Com a ajuda do [Axios](https://axios-http.com/ptbr/) foi feito a comunicação entre client-server
 
 ## Mobile
